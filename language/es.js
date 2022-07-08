@@ -115,8 +115,8 @@ exports.nolink = (value) => {
 };
 exports.addwarn = `˜”*°•.˜”*°• NO ENLACES •°*”˜.•°*”˜  `;
 exports.delwarn = `⚠️ Advertencia\n Se redujo 1 advertencia`;
-exports.cekwarn = (warn) » {
-  return `≡ 𝗔𝗗𝗩𝗘𝗥𝗧𝗘𝗡𝗖𝗜𝗔𝗦 \n\n▢ 𝐓𝐎𝐓𝐀𝐋  » *${warn}*`;
+exports.cekwarn = (warn) : {
+  return `≡ 𝗔𝗗𝗩𝗘𝗥𝗧𝗘𝗡𝗖𝗜𝗔𝗦 \n\n▢ 𝐓𝐎𝐓𝐀𝐋  : *${warn}*`;
 };
 exports.nowarn = `⚠️ El usuario no tiene ninguna advertencia`;
 
